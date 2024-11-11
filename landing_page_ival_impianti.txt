@@ -1,0 +1,5 @@
+landing_page_ival_impianti/
+    ├── landing_page.html
+    ├── impianto-elettrico.jpg
+    ├── videosorveglianza.jpg
+    └── ... (altre immagini)
